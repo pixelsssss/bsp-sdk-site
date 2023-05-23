@@ -3,6 +3,9 @@
 # 确保脚本抛出遇到的错误
 set -e
 
+# 安装 vuepress
+#pnpm install vuepress
+
 # 生成静态文件
 pnpm docs:build
 
