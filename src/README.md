@@ -10,7 +10,7 @@ actions:
     link: https://www.acoinfo.com/
     type: primary
 
-  - text: 嵌入式培训
+  - text: 加入我们
     link: http://www.databusworld.cn/
 
 features:

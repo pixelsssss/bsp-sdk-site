@@ -12,7 +12,7 @@ export default hopeTheme({
 
   logo: "/acoinfo_logo.png",
 
-  repo: "pixelsssss/bsp-sdk-site",
+  repo: "",
 
   docsDir: "",
 
@@ -29,7 +29,7 @@ export default hopeTheme({
 
       footer: "默认页脚",
 
-      displayFooter: true,
+      displayFooter: false,
 
       // page meta
       metaLocales: {

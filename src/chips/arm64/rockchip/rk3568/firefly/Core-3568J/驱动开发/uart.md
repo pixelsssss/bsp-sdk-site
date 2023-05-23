@@ -5,7 +5,7 @@ title: uart
 icon: discover
 # 一个页面可以有多个分类
 category:
-  - driver
+  - 驱动开发
 # 一个页面可以有多个标签
 tag:
   - uart
