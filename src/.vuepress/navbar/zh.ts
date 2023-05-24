@@ -3,8 +3,8 @@ import { navbar } from "vuepress-theme-hope";
 export const zhNavbar = navbar([
   "/",
   {
-    text: "SDK 中心",
-    prefix: "/chips/",
+    text: "SDK",
+    prefix: "/sdk/",
     children: [
       {
         text: "arm64",
@@ -20,20 +20,15 @@ export const zhNavbar = navbar([
     ],
   },
   {
-    text: "资源下载",
-    prefix: "/chips/",
+    text: "BSP 开发",
+    prefix: "/bsp/",
     children: [
-      {
-        text: "arm64",
-        prefix: "arm64/",
-        children: [
-          { 
-            text: "rockchip", 
-            prefix: "rockchip/",
-            link: "rockchip/",
-          },
-        ],
-      }
+    ],
+  },
+  {
+    text: "内核详解",
+    prefix: "/kernel/",
+    children: [
     ],
   },
 ]);

@@ -40,7 +40,7 @@ export default hopeTheme({
 
   encrypt: {
     config: {
-      "/chips/arm64/rockchip/rk3568/firefly/Core-3568J/": ["1234"],
+      "/sdk/arm64/rockchip/rk3568/firefly/Core-3568J/": ["1234"],
     },
   },
 

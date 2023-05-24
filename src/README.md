@@ -1,10 +1,10 @@
 ---
 home: true
 icon: home
-title: 项目主页
+title: 主页
 heroImage: 
-heroText: SylixOS BSP SDK SITE
-tagline: 本站点用于检索 SylixOS BSP SDK
+heroText: SylixOS Open Source
+tagline: 本站点为 SylixOS 开源站点
 actions:
   - text: 联系我们 💡
     link: https://www.acoinfo.com/
@@ -14,35 +14,20 @@ actions:
     link: http://www.databusworld.cn/
 
 features:
-  - title: 龙芯 Loongson
-    icon: slides
-    details: 国内自主 CPU 的引领者，自主生态的构建者
-    link: 
-
-  - title: 飞腾 Phytium
+  - title: SylixOS BSP SDK
     icon: layout
-    details: 国内领先的自主核心芯片提供商
-    link: 
+    details: SylixOS BSP SDK 站点，可获取各 SDK 的详细资料
+    link: /sdk/sdk.md
 
-  - title: 瑞芯微 Rockchip
+  - title: SylixOS BSP 开发
+    icon: slides
+    details: 详细介绍 SylixOS BSP 开发流程，手把手教你适配 SylixOS BSP
+    link: /bsp/bsp.md
+
+  - title: SylixOS 内核详解
     icon: markdown
-    details: 专注于集成电路设计与研发，已发展为领先的物联网（IoT）及人工智能物联网（AIoT）处理器芯片企业
-    link: /chips/arm64/rockchip
-
-  - title: 全志 Allwinner
-    icon: comment
-    details: 卓越的智能应用处理器SoC、高性能模拟器件和无线互联芯片设计厂商
-    link: 
-
-  - title: 复旦微 Fudan Micro
-    icon: info
-    details: 国内从事超大规模集成电路的设计、开发、生产（测试）和提供系统解决方案的专业公司
-    link: 
-
-  - title: 申威 Sunway
-    icon: palette
-    details: 专业从事高性能服务器处理器和嵌入式处理器产品的研发、生产与销售
-    link: 
+    details: 详细讲解 SylixOS 内核，带你走进国产大型实时操作系统的世界
+    link: /kernel/kernel.md
 
 copyright: false
 footer: Copyright © 2023 ACOINFO. All Rights Reserved.

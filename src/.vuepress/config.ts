@@ -8,7 +8,7 @@ export default defineUserConfig({
     "/": {
       lang: "zh-CN",
       title: "ACOINFO",
-      description: "SylixOS BSP SDK SITE",
+      description: "SylixOS 开源站点",
     },
   },
 
