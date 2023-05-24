@@ -18,13 +18,4 @@ export const zhSidebar = sidebar({
       children: "structure",
     },
   ],
-  "/kernel": [
-    "",
-    {
-      text: "SylixOS 内核完全注释",
-      collapsible: false,
-      link: "arch/",
-      children: "structure",
-    },
-  ],
 });
